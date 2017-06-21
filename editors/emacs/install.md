@@ -10,7 +10,7 @@ title: Installation
 
 ## System Requirements
 
-### Stable (not Scala 2.12)
+### Stable
 
 - JDK 1.6+
 - Emacs 24.3+
@@ -24,7 +24,7 @@ title: Installation
 
 ## Installing
 
-**If you need Scala 2.12 you need to use the Unstable / Developer edition**
+**If you use Scala 2.12 you must install the Unstable / Developer edition**
 
 We assume that you already have [MELPA](http://melpa.org) set up as per our [Learning Emacs](/editors/emacs/learning) guide.
 
